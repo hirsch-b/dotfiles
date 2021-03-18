@@ -7,3 +7,5 @@ sudo apt-get install -y \
 cp ./bash_aliases ~/.bash_aliases
 cp ./vimrc ~/.vimrc
 cp ./vim ~/.vim -rv
+cp ./gitconfig ~/.gitconfig
+
