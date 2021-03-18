@@ -5,3 +5,5 @@ sudo apt-get install -y \
     git vim
 
 cp ./bash_aliases ~/.bash_aliases
+cp ./vimrc ~/.vimrc
+cp ./vim ~/.vim -rv
